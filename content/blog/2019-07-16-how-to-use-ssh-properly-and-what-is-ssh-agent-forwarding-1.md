@@ -14,7 +14,7 @@ The SSH (Secure Shell) is widely used to provide secure access to remote systems
 
 SSH provides better authentication process. We are going to recap basic ways to do SSH and view more advanced options in order to be able to use our ssh keys in the external server without putting them directly over there. 
 
-First method is using private/public keys between local machine and the remote one. 
+First method is using private/public keys between local machine and the remote one.  
 
 
 ### Using SSH Public Key access
