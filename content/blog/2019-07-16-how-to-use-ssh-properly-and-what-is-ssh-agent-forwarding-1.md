@@ -1,6 +1,4 @@
 ---
-cover_image: 'https://thepracticaldev.s3.amazonaws.com/i/8qoa7qwomdnixm0yf6yg.png'
-description: How to use SSH and SSH Agent forwarding
 title: How to use SSH properly and what is SSH Agent Forwarding
 date: 2019-07-17T03:45:02.549Z
 image: /images/8qoa7qwomdnixm0yf6yg.png
@@ -9,7 +7,7 @@ tags:
   - devops
   - webdev
   - security
-draft: true
+draft: false
 ---
 
 The SSH (Secure Shell) is widely used to provide secure access to remote systems, we have few ways to do it. Basically, everybody who uses it knows about the routine password access. But, there are some issues with this approach, mainly, it allows brute-force password guessing.
